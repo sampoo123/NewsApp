@@ -30,9 +30,15 @@ public class practice2 {
         super.finalize();
     }
 
+<<<<<<< HEAD
     public practice2() {
 public class Vehicle {
     private String color;
+=======
+    public Test() {
+        public class Vehicle {
+        private String color;
+>>>>>>> developer
 
     // Getter
     public String getColor() {
