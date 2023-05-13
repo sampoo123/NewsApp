@@ -29,9 +29,17 @@ public class practice2 {
     protected void finalize() throws Throwable {
         super.finalize();
     }
+<<<<<<< HEAD
+
     public Test() {
         public class Vehicle {
         private String color;
+
+=======
+    public Test() {
+        public class Vehicle {
+        private String color;
+>>>>>>> developer
 
     // Getter
     public String getColor() {
